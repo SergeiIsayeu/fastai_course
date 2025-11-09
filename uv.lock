@@ -483,6 +483,7 @@ dependencies = [
     { name = "pandas" },
     { name = "pexpect" },
     { name = "seaborn" },
+    { name = "sympy" },
     { name = "widgetsnbextension" },
 ]
 
@@ -501,6 +502,7 @@ requires-dist = [
     { name = "pandas" },
     { name = "pexpect" },
     { name = "seaborn" },
+    { name = "sympy" },
     { name = "widgetsnbextension" },
 ]
 

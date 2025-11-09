@@ -18,5 +18,7 @@ dependencies = [
     "matplotlib",
     "ipywidgets",
     "widgetsnbextension",
-    "graphviz"
+    "graphviz",
+    "sympy"
+    
 ]
